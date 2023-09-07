@@ -1,0 +1,65 @@
+.navbar {
+    background-color: #64CCC5;
+}
+.navbar div {
+    background-color: #64CCC5 !important;
+}
+.navbar div a img {
+    height: auto;
+}
+.navbar div a span{
+    padding-left: 5px;
+    color: black;
+}
+.Body {
+    display: flex;
+}
+.CartBtn {
+    float: right;
+}
+.card-body h5 {
+    display: inline;
+}
+.card {
+    margin: 10px;
+    max-width: 30% !important;
+    height: fit-content;
+}
+.card-body {
+    position: relative;
+    background-color: #64CCC5 !important;
+}
+.Cart {
+    margin-left: auto;
+    position: relative;
+    padding: 1%;
+    height: auto;
+    width: 40%;
+    background-color: #176B87 !important;
+}
+.Cart li {
+    border-radius: 5px;
+    background-color: #64CCC5;
+    border: 1px solid #EEEEEE;
+}
+.CartTitle {
+    color: aliceblue;
+}
+.CartBill {
+    color: aliceblue;
+    position: absolute;
+    bottom: 0;
+    background-color: #176B87;
+    width: 90%;
+}
+.list-group-item p {
+    margin: 0;
+    font-size: small;
+    position: absolute;
+}
+.list-group-item span {
+    float: right;
+}
+.border {
+    margin-top: 0;
+}
